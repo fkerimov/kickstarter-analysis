@@ -9,3 +9,4 @@ __This is bold text too__
 This is a quote:
 > A Quote
 
+![Outcomes Based on Launch Date Chart] (kickstarter-analysis/images/Outcomes Based on Launch Date Chart.png)
